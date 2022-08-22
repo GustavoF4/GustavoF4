@@ -1,5 +1,5 @@
 - Olá meu nome é @gustavoHenrique
-- 👀 Meu email de contato é kauan.henrique.francisco@escola.pr.gov.br
+- 👀 Meu email de contato é gustavo.henrique.francisco@escola.pr.gov.br
 - 🌱 Eu estou interessado em aprender vovas linguagens
 - 💞️ Eu estou aprendendo a programar rescentemente a libguagem javaScript e Scratch
 
